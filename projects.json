@@ -18,21 +18,21 @@
         "id": "financas",
         "name": "Controle de Finanças",
         "icon": "💰",
-        "url": "https://controle-financas.netlify.app",
+        "url": "projetos/controle-financas/index.html",
         "type": "external"
     },
     {
         "id": "cadastro",
         "name": "Cadastro de Funcionários",
         "icon": "🧑‍💼",
-        "url": "https://cadastro-funcionarios.netlify.app",
+        "url": "projetos/cadastro_funcionarios/index.html",
         "type": "external"
     },
     {
         "id": "loja",
         "name": "Loja Esportiva",
         "icon": "🏀",
-        "url": "https://loja-esportiva.netlify.app",
+        "url": "projetos/sports-store/index.html"
         "type": "external"
     }
 ]
