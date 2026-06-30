@@ -1,0 +1,38 @@
+[
+    {
+        "id": "copa2026",
+        "name": "Tabela Copa 2026",
+        "icon": "🏆",
+        "url": "https://tabcopa.netlify.app",
+        "type": "external"
+    },
+    {
+        "id": "genshin",
+        "name": "Genshin Tracker",
+        "icon": "🎮",
+        "url": "#",
+        "type": "internal",
+        "route": "genshin"
+    },
+    {
+        "id": "financas",
+        "name": "Controle de Finanças",
+        "icon": "💰",
+        "url": "https://controle-financas.netlify.app",
+        "type": "external"
+    },
+    {
+        "id": "cadastro",
+        "name": "Cadastro de Funcionários",
+        "icon": "🧑‍💼",
+        "url": "https://cadastro-funcionarios.netlify.app",
+        "type": "external"
+    },
+    {
+        "id": "loja",
+        "name": "Loja Esportiva",
+        "icon": "🏀",
+        "url": "https://loja-esportiva.netlify.app",
+        "type": "external"
+    }
+]
