@@ -1,38 +1,38 @@
 [
-    {
-        "id": "copa2026",
-        "name": "Tabela Copa 2026",
-        "icon": "🏆",
-        "url": "https://tabcopa.netlify.app",
-        "type": "external"
-    },
-    {
-        "id": "genshin",
-        "name": "Genshin Tracker",
-        "icon": "🎮",
-        "url": "#",
-        "type": "internal",
-        "route": "genshin"
-    },
-    {
-        "id": "financas",
-        "name": "Controle de Finanças",
-        "icon": "💰",
-        "url": "projetos/controle-financas/index.html",
-        "type": "external"
-    },
-    {
-        "id": "cadastro",
-        "name": "Cadastro de Funcionários",
-        "icon": "🧑‍💼",
-        "url": "projetos/cadastro_funcionarios/index.html",
-        "type": "external"
-    },
-    {
-        "id": "loja",
-        "name": "Loja Esportiva",
-        "icon": "🏀",
-        "url": "projetos/sports-store/index.html"
-        "type": "external"
-    }
+  {
+    "id": "copa2026",
+    "name": "Tabela Copa 2026",
+    "icon": "🏆",
+    "url": "https://tabcopa.netlify.app",
+    "type": "external"
+  },
+  {
+    "id": "genshin",
+    "name": "Genshin Tracker",
+    "icon": "🎮",
+    "url": "#",
+    "type": "internal",
+    "route": "genshin"
+  },
+  {
+    "id": "financas",
+    "name": "Controle de Finanças",
+    "icon": "💰",
+    "url": "projetos/controle-financas/index.html",
+    "type": "external"
+  },
+  {
+    "id": "cadastro",
+    "name": "Cadastro de Funcionários",
+    "icon": "🧑‍💼",
+    "url": "projetos/cadastro_funcionarios/index.html",
+    "type": "external"
+  },
+  {
+    "id": "loja",
+    "name": "Loja Esportiva",
+    "icon": "🏀",
+    "url": "projetos/sports-store/index.html",
+    "type": "external"
+  }
 ]
