@@ -1,5 +1,12 @@
 [
   {
+    "id": "biosite",
+    "name": "Bio Site",
+    "icon": "🔗",
+    "url": "https://linktree-leo.netlify.app/",
+    "type": "external"
+  },
+  {
     "id": "copa2026",
     "name": "Tabela Copa 2026",
     "icon": "🏆",
