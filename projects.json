@@ -7,6 +7,13 @@
     "type": "external"
   },
   {
+  "id": "gymmanager",
+  "name": "Gym Manager Pro",
+  "icon": "🏋️",
+  "url": "https://managergym.netlify.app/",
+  "type": "external"
+},
+  {
     "id": "copa2026",
     "name": "Tabela Copa 2026",
     "icon": "🏆",
