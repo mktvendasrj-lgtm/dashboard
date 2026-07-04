@@ -14,6 +14,13 @@
     "type": "external"
   },
   {
+    "id": "lojaeliane",
+    "name": "Loja Eliane",
+    "icon": "🧴",
+    "url": "https://lojaeliane.netlify.app/",
+    "type": "external"
+  },
+  {
     "id": "genshin",
     "name": "Genshin Tracker",
     "icon": "🎮",
