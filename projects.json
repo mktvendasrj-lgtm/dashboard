@@ -62,5 +62,12 @@
     "icon": "🏀",
     "url": "projetos/sports-store/index.html",
     "type": "external"
+  },
+  {
+    "id": "catgame",
+    "name": "Cat Love",
+    "icon": "🐱",
+    "url": "https://love-cat-game.netlify.app/",
+    "type": "external"
   }
 ]
