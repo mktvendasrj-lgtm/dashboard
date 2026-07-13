@@ -6,6 +6,13 @@
     "url": "https://biosite-leo.netlify.app/",
     "type": "external"
   },
+    {
+    "id": "rpg",
+    "name": "RPG - Crônicas de Aethermoor",
+    "icon": "🧙",
+    "url": "https://aethermoor.pages.dev/",
+    "type": "external"
+  },
   {
     "id": "secretmsg",
     "name": "Mensagem Secreta",
