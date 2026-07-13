@@ -7,6 +7,13 @@
     "type": "external"
   },
   {
+    "id": "secretmsg",
+    "name": "Mensagem Secreta",
+    "icon": "🔒",
+    "url": "https://msgsecreta.netlify.app/",
+    "type": "external"
+  },
+  {
     "id": "instaleo",
     "name": "InstaLeo",
     "icon": "📸",
