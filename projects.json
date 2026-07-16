@@ -6,6 +6,13 @@
     "url": "https://biosite-leo.netlify.app/",
     "type": "external"
   },
+  {
+    "id": "lojageek",
+    "name": "Loja Radar Geek",
+    "icon": "🛒",
+    "url": "https://radargeek.pages.dev/",
+    "type": "external"
+  },
     {
     "id": "rpg",
     "name": "RPG - Crônicas de Aethermoor",
