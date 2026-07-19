@@ -6,6 +6,13 @@
     "url": "https://biosite-leo.netlify.app/",
     "type": "external"
   },
+   {
+    "id": "socialmediadashboard",
+    "name": "Social Media Dashboard",
+    "icon": "📊",
+    "url": "https://dashboardsocialmedia.pages.dev/",
+    "type": "external"
+  },
   {
     "id": "lojageek",
     "name": "Loja Radar Geek",
