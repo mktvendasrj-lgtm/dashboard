@@ -111,5 +111,12 @@
     "icon": "🐱",
     "url": "https://love-cat-game.netlify.app/",
     "type": "external"
+  },
+   {
+    "id": "vitrine",
+    "name": "Saas Vitrine",
+    "icon": "📊",
+    "url": "https://minhavitrine.pages.dev/",
+    "type": "external"
   }
 ]
