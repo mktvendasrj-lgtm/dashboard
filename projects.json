@@ -118,5 +118,19 @@
     "icon": "📊",
     "url": "https://minhavitrine.pages.dev/",
     "type": "external"
+  },
+    {
+    "id": "woodblocks",
+    "name": "Wood Blocks Puzzle",
+    "icon": "🧩",
+    "url": "https://woodblock-6y8.pages.dev/",
+    "type": "external"
+  },
+  {
+    "id": "tetris",
+    "name": "Tetris",
+    "icon": "🧱",
+    "url": "https://tetris-12b.pages.dev/",
+    "type": "external"
   }
 ]
