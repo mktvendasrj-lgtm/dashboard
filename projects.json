@@ -132,5 +132,12 @@
     "icon": "🧱",
     "url": "https://tetris-12b.pages.dev/",
     "type": "external"
+  },
+  {
+    "id": "xiangqi",
+    "name": "Where Winds Meet - Xiangqi",
+    "icon": "🀄",
+    "url": "https://xiangqi-9oo.pages.dev/",
+    "type": "external"
   }
 ]
