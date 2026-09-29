@@ -139,5 +139,19 @@
     "icon": "🀄",
     "url": "https://xiangqi-9oo.pages.dev/",
     "type": "external"
+  },
+   {
+    "id": "gastos",
+    "name": "Controle de Gastos",
+    "icon": "📈",
+    "url": "https://controle-gastos.mktvendasrj.workers.dev/",
+    "type": "external"
+  },
+   {
+    "id": "redentor",
+    "name": "Operação Redentor",
+    "icon": "🎮",
+    "url": "https://op-redentor.pages.dev/",
+    "type": "external"
   }
 ]
