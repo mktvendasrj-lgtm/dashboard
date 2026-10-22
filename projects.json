@@ -153,5 +153,12 @@
     "icon": "🎮",
     "url": "https://op-redentor.pages.dev/",
     "type": "external"
+  },
+  {
+    "id": "radiosmart",
+    "name": "Radio Smart",
+    "icon": "📻",
+    "url": "https://radiosmart.pages.dev/",
+    "type": "external"
   }
 ]
